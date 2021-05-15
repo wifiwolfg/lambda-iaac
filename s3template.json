@@ -4,7 +4,7 @@
         "S3Bucket": {
             "Type": "AWS::S3::Bucket",
             "Properties": {
-                "BucketName": "testingcloudformation10",
+                "BucketName": "YourBucketsName",
                 "AccessControl": "PublicRead",
                 "WebsiteConfiguration": {
                     "IndexDocument": "index.html",
